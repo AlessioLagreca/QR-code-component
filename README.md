@@ -6,7 +6,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./images/screenshot1.jpg)
+![](./images/screenshot1.png)
 
 ### Links
 
